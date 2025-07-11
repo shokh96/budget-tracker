@@ -30,6 +30,13 @@ An Android application for tracking personal expenses, helping users stay in con
 [👉 Click here to download the latest APK](https://drive.google.com/file/d/1umM9nD1Rdyple2h_koxENBv-kGIQn614/view?usp=drive_link)  
 
 ---
+## 📸 Screenshots
+
+### Home screen
+![Home](images/screenshot1.png)
+
+### Add expense
+![Add Expense](images/screenshot2.png)
 
 ---
 
