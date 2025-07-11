@@ -36,7 +36,7 @@ An Android application for tracking personal expenses, helping users stay in con
 ![Home](images/imagesscreenshot1.png)
 
 ### ➕ Add expense
-![Add Expense](images/screenshot2.png)
+![Add Expense](images/imagesscreenshot2.png)
 
 
 ---
