@@ -31,14 +31,6 @@ An Android application for tracking personal expenses, helping users stay in con
 
 ---
 
-## 📸 Screenshots
-
-### Home screen
-![Home](images/screenshot1.png)
-
-### Add expense
-![Add Expense](images/screenshot2.png)
-
 ---
 
 ## 🧑‍💻 Developer
