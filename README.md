@@ -32,11 +32,12 @@ An Android application for tracking personal expenses, helping users stay in con
 ---
 ## 📸 Screenshots
 
-### Home screen
-![Home](imagesscreenshot1.png.png)
+### 🏠 Home screen
+![Home](images/screenshot1.png)
 
-### Add expense
-![Add Expense](imagesscreenshot2.png.png)
+### ➕ Add expense
+![Add Expense](images/screenshot2.png)
+
 
 ---
 
